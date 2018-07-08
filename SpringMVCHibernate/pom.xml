@@ -15,7 +15,8 @@
 		<hibernate.version>4.3.5.Final</hibernate.version>
 	</properties>
 	<dependencies>
-		<!-- Spring -->
+		<!-- Spring ->
+!-- Spring ->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
